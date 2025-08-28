@@ -1,0 +1,12 @@
+<script>
+(function(hvu){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = hvu || {};
+s.src = "\/\/nocturnal-minimum.com\/c.De9k6vbf2H5slESIW\/QB9BN\/jdQQz-MlDCgEx-MTSi0a2-NsDoMzwrOIDQEMyH";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
