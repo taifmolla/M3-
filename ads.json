@@ -1,3 +1,14 @@
 {
-  "popup": "<div id='popup-ad' style='position:fixed;top:20%;left:50%;transform:translateX(-50%);background:#fff;padding:20px;box-shadow:0 0 10px rgba(0,0,0,0.5);z-index:9999;'>Your Ad Code Here <button onclick='document.getElementById(\"popup-ad\").remove()'>Close</button></div>"
+  "popup": "<div id='popup-ad' style='position:fixed;top:20%;left:50%;transform:translateX(-50%);background:#fff;padding:20px;box-shadow:0 0 10px rgba(0,0,0,0.5);z-index:9999;'><script>
+(function(hvu){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = hvu || {};
+s.src = "\/\/nocturnal-minimum.com\/c.De9k6vbf2H5slESIW\/QB9BN\/jdQQz-MlDCgEx-MTSi0a2-NsDoMzwrOIDQEMyH";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script><button onclick='document.getElementById(\"popup-ad\").remove()'>Close</button></div>"
 }
